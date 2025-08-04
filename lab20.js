@@ -1,5 +1,6 @@
 // LAB20 --- MongoDB Commands
 
+use lab20
 // 1
 
 db.products.insertMany([
